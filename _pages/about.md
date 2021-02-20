@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Ali Rahimi Kalahroudi (Written as "_علی رحیمی‌کلهرودی_" in my native language—Persian). I am currently a research M.Sc. student at Université de Montréal and MILA under the supervision of Prof. Sarath Chandar. I received my B.Sc. in Computer Science at the Sharif University of Technology.
+My name is Ali Rahimi Kalahroudi (Written as "_علی رحیمی‌کلهرودی_" in my native language—Persian). I am currently a research M.Sc. student in computer science at Université de Montréal and MILA under the supervision of Prof. Sarath Chandar. I received my B.Sc. in computer science at the Sharif University of Technology.
 
 I am interested in building practical intelligent machines that not only can interact amongst themselves but also with humans. I want to draw inspiration from the human brain's concepts to both construct and evaluate them.
 
