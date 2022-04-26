@@ -16,13 +16,14 @@ While I am not doing science, I enjoy reading books, watching movies, playing fo
 
 ### Interests
 
-Current research interests:
-
 - (Deep) Reinforcement Learning
 - Model-Based Reinforcement Learning
-- Continual Learning
+- Representation Learning 
 
 News
 ======
-* (Jan. 2021) I started my master's studies at [MILA](https://mila.quebec/en/)—Montréal Institute for Learning Algorithms, in Computer Science under the supervision of [Prof. Sarath Chandar](http://www.sarathchandar.in).
-* (Dec. 2020) After four incredible years working as a Data Scientist, I left [Café Bazaar](https://cafebazaar.ir/?l=en)—the largest applications and mobile games store in Iran with more than 40 million users
+* (March 2022)
+* (January 2022) I have joined [iCAD Dental](https://www.icad.dental) for a four-month part-time job as a Machine Learning Research Developer. 
+* (December 2021) We have released the first version of our RL research framework in [Chandar-Lab](https://chandar-lab.github.io). It is called [RLHive](https://github.com/chandar-lab/RLHive).
+* (January 2021) I started my master's studies at [MILA](https://mila.quebec/en/)—Montréal Institute for Learning Algorithms, in Computer Science under the supervision of [Prof. Sarath Chandar](http://www.sarathchandar.in).
+* (December 2020) After four incredible years working as a Data Scientist, I left [Café Bazaar](https://cafebazaar.ir/?l=en)—the largest applications and mobile games store in Iran with more than 40 million users
