@@ -22,7 +22,7 @@ While I am not doing science, I enjoy reading books, watching movies, playing fo
 
 News
 ======
-* (March 2022) Our work on evaluating the adaptivity of MBRL methods [(LoCA2)](https://arxiv.org/abs/2204.11464) was accepted as a **spotlight** at the ICLR 2022 workshop on [Agent Learning in Open-Endedness] (https://sites.google.com/view/aloe2022/home).
+* (March 2022) Our work on evaluating the adaptivity of MBRL methods [(LoCA2)](https://arxiv.org/abs/2204.11464) was accepted as a **spotlight** at the ICLR 2022 workshop on [Agent Learning in Open-Endedness](https://sites.google.com/view/aloe2022/home).
 * (March 2022) Our work on evaluating the adaptivity of MBRL methods [(LoCA2)](https://arxiv.org/abs/2204.11464) got accepted at [RLDM 2022](https://rldm.org).
 * (January 2022) I have joined [iCAD Dental](https://www.icad.dental) for a four-month part-time job as a Machine Learning Research Developer. 
 * (December 2021) We have released the first version of our RL research framework in [Chandar-Lab](https://chandar-lab.github.io). It is called [RLHive](https://github.com/chandar-lab/RLHive).
