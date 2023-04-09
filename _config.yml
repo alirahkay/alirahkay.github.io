@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ali Rahimi-Kalahroudi"
 title_separator          : "-"
 name                     : &name "Ali Rahimi-Kalahroudi"
-description              : &description "M.Sc. Student at UdeM/MILA"
+description              : &description "Research Assistant at Mila - Quebec AI"
 url                      : https://alirahkay.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alirahkay/alirahkay.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ali Rahimi-Kalahroudi"
   avatar           : "profile.JPG"
-  bio              : "M.Sc. Student in Machine Learning"
+  bio              : "Research Assistant at Mila - Quebec AI"
   location         : "Montréal, Canada"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
