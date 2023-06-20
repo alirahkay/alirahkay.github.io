@@ -14,7 +14,9 @@ While I am not doing science, I enjoy reading books, watching movies, playing fo
 
 News
 ======
-* (May 2022) Our work on evaluating the adaptivity of MBRL methods [(LoCA2)](https://arxiv.org/abs/2204.11464) got accepted at International Conference on Machine Learning 2022 ([ICML](https://icml.cc/Conferences/2022/)).
+
+* (May 2023) Our work on introducing the Local Forgetting (LoFo) Buffer for adaptive deep MBRL methods [LoFo](https://arxiv.org/abs/2303.08690) got accepted at the Conference on Lifelong Learning Agents 2023 ([CoLLAs](https://lifelong-ml.cc)).
+* (May 2022) Our work on evaluating the adaptivity of MBRL methods [(LoCA2)](https://arxiv.org/abs/2204.11464) got accepted at the International Conference on Machine Learning 2022 ([ICML](https://icml.cc/Conferences/2022/)).
 * (January 2022) I have joined [iCAD Dental](https://www.icad.dental) for a four-month part-time job as a Machine Learning Research Developer. 
 * (December 2021) We have released the first version of our RL research framework in [Chandar-Lab](https://chandar-lab.github.io). It is called [RLHive](https://github.com/chandar-lab/RLHive).
 * (December 2020) After four incredible years working as a Data Scientist, I left [Café Bazaar](https://cafebazaar.ir/?l=en)—the largest applications and mobile games store in Iran with more than 40 million users
