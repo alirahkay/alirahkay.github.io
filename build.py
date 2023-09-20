@@ -256,6 +256,7 @@ def get_index_html():
         <div class="row" style="margin-top: 1em;">
             <div class="col-sm-12" style="">
                 <h4>Publications</h4>
+                <span style="margin-left: 4em; font-style: italic; font-size: 80%; color: #888">* denotes equal contribution.</span><br><br>
                 {pub}
             </div>
         </div>
