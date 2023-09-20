@@ -1,0 +1,21 @@
+[
+    {"date": "Sep 15, 2023", 
+    "body": "My M.Sc. thesis was accepted with an Exceptional Grade (extremely rare at Mila/UdeM)."},
+    {"date": "May 15, 2023", 
+    "body": "Our work on introducing the <a href='https://arxiv.org/abs/2303.08690' target='_blank'>  LoFo</a> Buffer for adaptive deep MBRL methods got accepted (Oral Presentation) at <a href='https://lifelong-ml.cc/Conferences/2023' target='_blank'>  CoLLAs 2023</a>.<br>(Also presented at the Neurips 2022 Workshop on <a href='https://sites.google.com/view/deep-rl-workshop-neurips-2022' target='_blank'> Deep Reinforcement Learning</a>.)"},
+    {"date": "May 14, 2022", 
+    "body": "Our work on evaluating the adaptivity of MBRL methods <a href='https://arxiv.org/abs/2204.11464' target='_blank'> Improved-LoCA</a> got accepted at the <a href='https://icml.cc/Conferences/2022/' target='_blank'> ICML 2022</a>.<br>(Also presented at the ICLR 2022 workshop on <a href='https://sites.google.com/view/aloe2022/home' target='_blank'> Agent Learning in Open-Endedness</a>[Spotlight], and <a href='https://rldm.org/' target='_blank'> RLDM 2022</a>.)"},
+    {"date": "Jan 01, 2022", 
+    "body": "I joined <a href='https://www.icad.dental' target='_blank'> iCAD Dental</a> for a four-month part-time job as a Machine Learning Research Developer. "},
+    {"date": "Dec 31, 2021", 
+    "body": "We have released the first version of our RL research framework in <a href='https://chandar-lab.github.io' target='_blank'> Chandar-Lab</a>. It is called <a href='https://github.com/chandar-lab/RLHive' target='_blank'> RLHive</a>."},
+    {"date": "Jan 01, 2021", 
+    "body": "Started my M.Sc. studies at Mila - Quebec AI and University of Montreal."},
+    {"date": "Dec 31, 2020", 
+    "body": "After four incredible years working as a Data Scientist, I left <a href='https://cafebazaar.ir/?l=en' target='_blank'> Café Bazaar</a>.<br>(The largest applications and mobile games store in Iran with more than 40 million users.)"}
+]
+
+
+
+
+
