@@ -29,8 +29,8 @@ def get_personal_data():
     """
     footer = """
     
-            <div class="col-sm-12" style="">
-                <pr><a href="https://github.com/m-niemeyer/m-niemeyer.github.io" target="_blank">&#9883;</a> Website template provided by Michael Niemeyer.</pr>
+            <div class="col-sm-12" style="font-size: 80%;">
+                <pr>Website template adopted from <a href="https://github.com/m-niemeyer/m-niemeyer.github.io" target="_blank"> Michael Niemeyer</a>.</pr>
             </div>
     """
     return name, bio_text, footer
@@ -247,13 +247,13 @@ def get_index_html():
                 <img src="assets/img/profile.jpg" class="img-thumbnail" width="280px" alt="Profile picture">
             </div>
         </div>
-        <div class="row" style="margin-top: 3em;">
+        <div class="row" style="margin-top: 1em;">
             <div class="col-sm-12">
                 <h4>News</h4>
                 {news}
             </div>
         </div>
-        <div class="row" style="margin-top: 1em;">
+        <div class="row" style="margin-top: 3em;">
             <div class="col-sm-12" style="">
                 <h4>Publications</h4>
                 <span style="margin-left: 4em; font-style: italic; font-size: 80%; color: #888">* denotes equal contribution.</span><br><br>
