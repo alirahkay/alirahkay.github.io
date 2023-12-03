@@ -9,7 +9,7 @@ def get_personal_data():
     github = "alirahkay"
     linkedin = "ali-rahimi-kalahroudi-615b10100"
     bio_text = f"""
-                <p>My name is Ali Rahimi Kalahroudi (Written as "_علی رحیمی‌کلهرودی_" in my native language—Persian). I am currently a research assistant at Mila - Quebec AI under the supervision of Prof. Sarath Chandar.</p>
+                <p>My name is Ali Rahimi Kalahroudi (Written as "_علی رحیمی‌کلهرودی_" in my native language—Persian). I am currently a research assistant at Mila - Quebec AI under the supervision of Prof. Sarath Chandar. <br>My ultimate research goal is to develop AI agents capable of solving diverse tasks given minimal supervision. <br><br>I am currently interested in designing reliable machine learning (ML) algorithms for sequential decision-making in open-ended interaction settings. In these contexts, the algorithms must learn and continually adapt their skills and knowledge. To tackle these challenges, my approach centers on leveraging model-based learning mechanisms. This involves empowering AI agents with the capability to construct and utilize world models and employing planning to enhance their decision-making processes.</p>
                 <p>
                     <span style="font-weight: bold;">Bio:</span> 
                     Perviously I received my M.Sc. in computer science at the University of Montreal and Mila.
