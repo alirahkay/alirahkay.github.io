@@ -41,7 +41,11 @@ def get_author_dict():
         'Janarthanan Rajendran': 'https://sites.google.com/umich.edu/janarthanan-rajendran/',
         'Harm Van Seijen': 'https://scholar.google.ca/citations?user=0UTNLh8AAAAJ&hl=en',
         'Ida Momennejad': 'https://www.momen-nejad.org',
-        'Yi Wan': 'https://sites.google.com/ualberta.ca/yiwan/'
+        'Yi Wan': 'https://sites.google.com/ualberta.ca/yiwan/',
+        'Doina Precup': 'https://www.cs.mcgill.ca/~dprecup/',
+        'Reza Bayat': 'https://rezabyt.github.io',
+        'Mohammad Pezeshki': 'https://mpezeshki.github.io',
+        'Pascal Vincent': 'https://mila.quebec/en/directory/pascal-vincent',
         }
 
 def generate_person_html(persons, equal_contribs, connection=", ", make_bold=True, make_bold_name='Ali Rahimi-Kalahroudi', add_links=True):
